@@ -5,7 +5,7 @@ This project demonstrates a basic FreeRTOS application on the **ESP32-S3** micro
 
 ![image](/images/board3.png)
 
-![image](/images/exercise3.png)
+![image](/images/Exercise3.png)
 
 ``` 
 #include <Arduino.h>
