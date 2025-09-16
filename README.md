@@ -1,6 +1,6 @@
 ![image](/images/savonia.png)
 
-# Real Time System (RTOS) Playground
+# Real Time System (RTOS)
 
 This repository serves as a **playground** and a **comprehensive resource** for understanding the professional course `Real Time System`.  
 
