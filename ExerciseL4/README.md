@@ -1,9 +1,10 @@
 # Group Exercise L-4: Memory Management (Group Submission)
 
 **Member:**  
-- Mariya 
+- Sajib
+- Mariya
 - Khan
-- Abdul  
+- Abdul
 
 ---
 ## Project Title
